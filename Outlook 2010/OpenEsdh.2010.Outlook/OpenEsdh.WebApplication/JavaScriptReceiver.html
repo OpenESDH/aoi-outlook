@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <h1>Dette er en test</h1>
+    <a href="#" onclick="CloseDialog();">Luk Dialog</a>
+    <div id="Content"></div>
+
+    
+    <script type="text/javascript">
+        function IntializeOutlook(input)
+        {
+            try{
+                document.getElementById("Content").innerHTML = input;
+            }catch(E)
+            {
+                alert(E);
+            }
+        }
+        function CloseDialog()
+        {
+            try {
+                window.external.SaveAsOpenEsdh("", "");
+            } catch (E) {
+            }
+        }
+    </script>
+</body>
+</html>

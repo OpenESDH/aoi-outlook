@@ -1,0 +1,15 @@
+C:\Development\OpenESDH\Shared\OpenEsdh.Outlook\bin\Debug\OpenEsdh.Outlook.dll
+C:\Development\OpenESDH\Shared\OpenEsdh.Outlook\bin\Debug\OpenEsdh.Outlook.pdb
+C:\Development\OpenESDH\Shared\OpenEsdh.Outlook\obj\Debug\OpenEsdh.Outlook.Views.Implementation.SaveAsView.resources
+C:\Development\OpenESDH\Shared\OpenEsdh.Outlook\obj\Debug\OpenEsdh.Outlook.csproj.GenerateResource.Cache
+C:\Development\OpenESDH\Shared\OpenEsdh.Outlook\obj\Debug\OpenEsdh.Outlook.dll
+C:\Development\OpenESDH\Shared\OpenEsdh.Outlook\obj\Debug\OpenEsdh.Outlook.pdb
+C:\Development\OpenESDH\Shared\OpenEsdh.Outlook\obj\Debug\OpenEsdh.Outlook.Views.Implementation.DisplayRegionControl.resources
+C:\Development\OpenESDH\Shared\OpenEsdh.Outlook\bin\Debug\en-US\OpenEsdh.Outlook.resources.dll
+C:\Development\OpenESDH\Shared\OpenEsdh.Outlook\bin\Debug\da-DK\OpenEsdh.Outlook.resources.dll
+C:\Development\OpenESDH\Shared\OpenEsdh.Outlook\obj\Debug\en-US\OpenEsdh.Outlook.resources.dll
+C:\Development\OpenESDH\Shared\OpenEsdh.Outlook\obj\Debug\da-DK\OpenEsdh.Outlook.resources.dll
+C:\Development\OpenESDH\Shared\OpenEsdh.Outlook\obj\Debug\OpenEsdh.Outlook.g.resources
+C:\Development\OpenESDH\Shared\OpenEsdh.Outlook\obj\Debug\OpenEsdh.Outlook.Resources.OpenEsdh.Outlook.en-US.resources
+C:\Development\OpenESDH\Shared\OpenEsdh.Outlook\obj\Debug\OpenEsdh.Outlook.Resources.OpenEsdh.Outlook.da-DK.resources
+C:\Development\OpenESDH\Shared\OpenEsdh.Outlook\obj\Debug\OpenEsdh.Outlook.csprojResolveAssemblyReference.cache
